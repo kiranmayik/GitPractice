@@ -1,0 +1,12 @@
+public class StringReverse
+{
+StringReverse()
+{
+rev=" "
+reverse= rev + RecursiveStringReverse()
+}
+public void RecursiveStringReverse()
+{
+
+}
+}
